@@ -1,12 +1,20 @@
 
 
 # 💭 Quotes App 💭
+<img src="https://github.com/Dinesh2510/Quotes-App-using-Jetpack-Compose/blob/master/youtube%20thumbnail%20(3).png?raw=true" width="750">
+
+
 A Quotes Application built to Demonstrate the use of Jetpack Compose for building declarative UI in
 Android. *Made with love ❤️ by [Dinesh2510](https://github.com/Dinesh2510)*
 
-***Try latest JetQuotes App apk from below 👇***
+***Try latest Quotes App apk from below 👇***
 
 📱
+
+## Screenshots
+| Home  | List of quotes | Aout |
+| ------------- | ------------- |  ------------- |
+| [![IMAGE](https://github.com/Dinesh2510/Quotes-App-using-Jetpack-Compose/blob/master/Screenshot_20240621_194514.png)](https://www.youtube.com/watch?v=sklPpTf7Yj8)  |  [![IMAGE](https://github.com/Dinesh2510/Quotes-App-using-Jetpack-Compose/blob/master/Screenshot_20240621_194545.png)](https://www.youtube.com/watch?v=sklPpTf7Yj8)  |   [![IMAGE](https://github.com/Dinesh2510/Quotes-App-using-Jetpack-Compose/blob/master/Screenshot_20240621_194555.png)](https://www.youtube.com/watch?v=sklPpTf7Yj8)|
 
 ## Built With 🛠
 
@@ -38,7 +46,6 @@ Android. *Made with love ❤️ by [Dinesh2510](https://github.com/Dinesh2510)*
 
 ## Contribute 🤝
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/pixelDeviin)
-
 
 
 ## Credits 🤗

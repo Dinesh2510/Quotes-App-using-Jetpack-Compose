@@ -37,7 +37,8 @@ Android. *Made with love ❤️ by [Dinesh2510](https://github.com/Dinesh2510)*
 
 
 ## Contribute 🤝
-- 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/pixelDeviin)
+
 
 
 ## Credits 🤗
